@@ -1,5 +1,5 @@
 [project]
-name = "rvc-beta"
+name = "rvc-webui"
 version = "0.1.0"
 description = ""
 authors = [{ name = "lj1995" }]
