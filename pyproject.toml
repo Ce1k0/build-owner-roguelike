@@ -3,7 +3,7 @@ name = "rvc-webui"
 version = "0.1.0"
 description = "RVC (Retrieval-Based Voice Conversion) Web Interface"
 authors = [
-    { name = "lj1995", email = "" },  # 可留空或删除 email
+    { name = "lj1995" }
 ]
 license = "MIT"
 requires-python = ">=3.9"
